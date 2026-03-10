@@ -91,6 +91,4 @@ This script loads `alexnet_cifar10.pth` and prints final test accuracy.
 - Add data augmentation for better generalization
 - Add support for other datasets
 
-## License
 
-This project is distributed under the terms of the license in `LICENSE`.
